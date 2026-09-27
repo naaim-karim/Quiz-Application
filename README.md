@@ -1,2 +1,2 @@
 # Quiz-Application
-https://itctrl-naaim.github.io/Quiz-Application/
+https://naaim-karim.github.io/Quiz-Application/
